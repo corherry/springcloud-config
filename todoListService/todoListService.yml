@@ -7,7 +7,7 @@ spring:
 #  数据源所使用的驱动
     driver-class-name: com.mysql.jdbc.Driver
 #    连接数据库的url
-    url: jdbc:mysql://weidy2-2-w10:3306/todo_list?useSSL=false
+    url: jdbc:mysql://localhost:3306/ita_todolist?useSSL=false
 #    数据库用户名
     username: root
 #    数据库密码
